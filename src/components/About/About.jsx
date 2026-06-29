@@ -54,7 +54,7 @@ function About() {
 
           <div className="card">
             <FaMapMarkerAlt />
-            <h3>Location</h3>
+            <h3>Banglore</h3>
             <p>India</p>
           </div>
 
