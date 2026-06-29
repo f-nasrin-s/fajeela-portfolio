@@ -36,7 +36,7 @@ function Experience() {
             </span>
 
             <h3>
-              AI/ML Intern
+              Fullstack web development Intern
             </h3>
 
             <h4>
